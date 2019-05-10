@@ -1,7 +1,10 @@
 # hobbyMenu
-Restaurant website MENU - for me and my food interests -  Javascript, HTML, CSS
+Restaurant website MENU - for me and my food interests -  jQuery/Javascript, HTML, CSS   <br>
+If you click on the menu item description, it will display the price of the item. <br>
+If you click on "about us", it will jump to a description page that gives a brief <br>
+description of the restaurant in addition tothe Recipes of the Day.
 
-This program is written using - Javascript, jQuery, HTML, CSS.
+This website is written using - jQuery, HTML, CSS.
 <br>
 Click on the following link to try it out: 
 https://hobbymenusite--templetse.repl.co/
