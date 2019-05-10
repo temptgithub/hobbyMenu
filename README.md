@@ -7,5 +7,5 @@ Click on the following link to try it out:
 https://hobbymenusite--templetse.repl.co/
 
 <p>
-<img src="https://github.com/temptgithub/hobbyMenu/blob/master/menu%20website.jpg" width="420" height="40" /> 
+<img src="https://github.com/temptgithub/hobbyMenu/blob/master/menu%20website.jpg" width="420" height="840" /> 
 </p>
